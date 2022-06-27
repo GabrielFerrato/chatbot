@@ -1,0 +1,10 @@
+# COMO UTILIZAr ESTE PROGRAMA?
+
+1. Assista o vídeo que ensina como utilizar ele
+2. Faça instalação do VS Code(Ensinado no vídeo - https://www.youtube.com/watch?v=UenvIUxYo-0&feature=youtu.be)
+3. Faça instalação do Python(Ensinado no vídeo - https://www.youtube.com/watch?v=UenvIUxYo-0&feature=youtu.be)
+4. Faça instalação das bibliotecas necessárias(Ensinado no vídeo - https://www.youtube.com/watch?v=UenvIUxYo-0&feature=youtu.be)
+5. Insira sua própria lista de contatos
+
+# GOSTEI DESSE NEGÓCIO, QUERO ME TORNAR UM PROGRAMADOR PYTHON. COMO POSSO FAZER ISSO?
+ACESSE https://cursodepython.net
